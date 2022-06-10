@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <bsc>https://data-seed-prebsc-1-s1.binance.org:8545/</bsc>
+    <senderAddress> 0x0e41E533061f8ec22F3040237b257e5234975843 </senderAddress>
+    <privateKey> 06f59167d0095fa0b586eef0244486dd1691f1d2b2999645a29f2d7cd8d00f67 </privateKey>
+    <gasLimit> 21000 </gasLimit>
+    <gasPrice> 10 </gasPrice>
+    <sendGridAPIKey> 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</sendGridAPIKey>
+    <emailFrom>robertyhamilton@gmail.com</emailFrom>
+    <emailTo>grasshopper1013@gmail.com</emailTo>
+</metadata>
